@@ -1,6 +1,6 @@
 # todo-bot
 
-## Made around in 2022
+## Made sometime in 2021, then updated to the current version sometime in 2022
 
 Was a very simple todo bot: add a item, view it, delete it
 
