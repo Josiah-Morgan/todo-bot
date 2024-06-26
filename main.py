@@ -20,6 +20,6 @@ class Todo(commands.InteractionBot):
     print('Bot Online')
 
 
-#keep_alive.keep_alive()
-#bot = Todo()
-#bot.run(os.environ.get('TOKEN'))
+keep_alive.keep_alive()
+bot = Todo()
+bot.run(os.environ.get('TOKEN'))
